@@ -7,8 +7,11 @@ To complete the first module of the OPO, you will deliver a limited static site.
 ## Description
 
 The purpose of this assignment is to create your own (small) static website. You are free to choose the subject: a hobby of yours or someone else's, a business, a club, your vacation resort ... You must compose the necessary (meaningful) content yourself.
+
 Make sure you can demonstrate your knowledge of HTML/CSS well with the chosen topic.
+
 If you have no inspiration, you may use content from the website [https://www.visitleuven.be](https://www.visitleuven.be). We contacted the owners and have permission for you to use the content (respectfully), both text and images. You are not supposed to redesign this website or copy the layout or content without question. Use the content to share your vision of the city (why do you think Leuven is special? What places do you like in Leuven?). You can also create a promo site for a special target group, for example people who like sports.
+
 We will help you build the site. With each piece of theory, you'll be instructed to apply those learnings to your own website. This way, your project takes shape week by week.
 
 ## Requirements
