@@ -17,7 +17,7 @@ We will help you build the site. With each piece of theory, you'll be instructed
 ## Requirements
 
 - You may choose the same topic with different people, but everyone will make their own version of the site
-- Minimum of five pages. The fifth page must show the site specification (first exercise).
+- Minimum of five pages. The fifth page must show the [https://github.com/UCLL-Frontend/oefeningen-frontend-deel1/blob/main/site-specification.md](site specification).
 - Must include a form where the 'submit' button will not work (that's back-end). The form must have a checkbox or radio button and at least 3 different input types (checkbox/radio button not included).
 - Sufficient content (so no pages with 3 sentences of text on them): sufficient texts, pictures, ... It is the intention that you show that you have mastered all the material of the first part of the OPO (HTML/CSS). You cannot do that with a site consisting of twenty sentences and three pictures.
 - Modern CSS (i.e. flex, grid, ... and no float, inline-block). Please don’t repeat yourself (DRY) and provide comments.
