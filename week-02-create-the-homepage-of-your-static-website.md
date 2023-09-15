@@ -11,7 +11,7 @@ The next step is to translate one of those pages into valid HTML5. In this assig
 - Use the correct HTML5 document structure, including the `<!DOCTYPE html>` declaration, `<html>`, `<head>`, and `<body>` elements.
 - Include a header section containing the website title and possibly a logo if available.
 - Add a navigation section with links to other pages, even if those pages do not exist yet. Use placeholder URLs for now.
-- Add a working link to your site specification.
+- Add a working link to your site specification (fifth/last link of the navigation).
 - In the `<body>` section, add the main content of your homepage within a `<main>` element. You can use placeholder content (Lorem Ipsum) for now. (In VS Code, you can type `lorem` in your `index.html` file to automatically add lorem copy using the Emmet notation.) [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
 - Images:
   - Add a logo or other images when available.
