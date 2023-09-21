@@ -2,7 +2,7 @@
 
 ## Description
 
-In the site specification, you described your subject, your target audience, and the purpose of the website. You thought about the structure of the site and the specific content for each page.
+In the [site specification](https://github.com/UCLL-Frontend/oefeningen-frontend-deel1/blob/main/site-specification.md#site-specification), you described your subject, your target audience, and the purpose of the website. You thought about the structure of the site and the specific content for each page.
 The next step is to translate one of those pages into valid HTML5. In this assignment, you need to do this for the homepage (`index.html`).
 
 ## Specifics
