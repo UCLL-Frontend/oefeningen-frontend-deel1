@@ -5,6 +5,8 @@
 In the [site specification](https://github.com/UCLL-Frontend/oefeningen-frontend-deel1/blob/main/site-specification.md#site-specification), you described your subject, your target audience, and the purpose of the website. You thought about the structure of the site and the specific content for each page.
 The next step is to translate one of those pages into valid HTML5. In this assignment, you need to do this for the homepage (`index.html`).
 
+*Note:* You can start this exercise even if you have not yet created a site specification. Then skip the steps that explicitly refer to the site specification. 
+
 ## Specifics
 
 - Start by creating a new HTML file and naming it `index.html`. This will be your homepage.
