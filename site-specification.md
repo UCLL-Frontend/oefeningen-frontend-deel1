@@ -20,7 +20,7 @@ Provide details about your site:
 - What are the goals of the site? What is it trying to achieve?
 - Which pages will you create? Provide the content for each page. Look at websites on similar topics for inspiration (what do you like/dislike about them and why). Keep in mind that one of the pages should include a (non-functional) form. You can determine the purpose of this form yourself.
 - Are there any other details you can share about the site at this stage?
-- You can use [this screenshot](template-screenshot.png) as a template. Write the necessary HTML code yourself. Pay attention to the correct document structure.
+- You can use [this screenshot](sitespecTemplate.png) as a template. Write the necessary HTML code yourself. Pay attention to the correct document structure.
 
 ## How to Submit
 
