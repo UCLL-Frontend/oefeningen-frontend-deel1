@@ -1,7 +1,7 @@
 # Style your documents using CSS
 
 ## Link to Exercises Week 2
-[Link](https://github.com/UCLL-Frontend/oefeningen-frontend-deel1/blob/main/week-02-create-the-homepage-of-your-static-website.md)
+[Link to exercises week 2](https://github.com/UCLL-Frontend/oefeningen-frontend-deel1/blob/main/week-02-create-the-homepage-of-your-static-website.md)
 
 ## Description
 
