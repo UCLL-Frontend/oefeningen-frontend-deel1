@@ -42,7 +42,7 @@ Deliver the assignment on the webserver. It must be available on the class list 
 
 ## Deadline
 
-This exercise is considered as exercise on lesson 2. You must deliver it as part of "Tussentijdse opdracht" with deadline 12/10.
+This exercise is considered as exercise on lesson CSS:intro, colors, backgrounds, selectors. You must deliver it as part of "Tussentijdse opdracht" with deadline 12/10.
 
 ## Self Assessment
 
@@ -55,10 +55,6 @@ Check your submission yourself:
 - Your website has an external style sheet, in the folder CSS.
 - You have used most types of CSS selectors: HTML elements, id, class, child selector, combination of all.
 - You have used the properties color, background-color, font-family, line-height, font-size, and more.
-- At least one element is limited in width (including max-width).
-- You have used the properties margin and padding.
-- Padding and margin are not applied cumulatively (where not necessary/where possible). Example: both body and article have padding-left so that they add up to a wide padding-left.
-- You use margin and padding to create white space, not <br>.
 - CSS code is repeated as little as possible (DRY).
 
 ### Layout
