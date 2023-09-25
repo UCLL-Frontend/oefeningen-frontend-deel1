@@ -1,7 +1,7 @@
 # Style your documents using CSS – Box Model
 
-## Link to Exercises Week 2
-[Link to Exercises Week 2](https://github.com/UCLL-Frontend/oefeningen-frontend-deel1/blob/main/week-02-create-the-homepage-of-your-static-website.md)
+## Link to Exercises "Create the Hompe Page"
+[Link to Exercises Create the Home Page](https://github.com/UCLL-Frontend/oefeningen-frontend-deel1/blob/main/week-02-create-the-homepage-of-your-static-website.md)
 
 ## Description
 
@@ -18,16 +18,16 @@ Open your homepage and resize the browser screen to 600px. Also in this exercise
 - Play with width in CSS. Examples:
   - Resize figures to full browser width, to 50% of the browser width, 600px … Resize the browser screen and discuss the result.
   - Put the resized image in the center of the containing block.
-  - Play with the width of the main content (header + main + footer).
+- Play with the width of the main content (header + main + footer).
   - Limit the size of the main content to 70% of browser width. Give the outer margin a contrasting color. Make sure the container is in the center of the screen.
   - Do the same, but set the width to 600px (fixed width). Resize the browser screen and see what happens.
   - Make a combination of both: set the width to 90% and max-width to 600px.
   - Try another view: Make the header and footer as wide as the screen and limit the element main to 70%. Write as few CSS as possible. You can do this exercise on another HTML page if you want.
 - Create a nice vertical navigation for a small screen.
-- Eliminate the bullets of the list with list-style-type: none.
-- Give the current link (the page where you are right now) a ‘reversed effect’: dark letter on a light background.
-- Create a hover-effect [hover](https://developer.mozilla.org/en-US/docs/Web/CSS/:hover).
-- Maybe you can try a smooth transition [transition](https://developer.mozilla.org/en-US/docs/Web/CSS/transition).
+  - Eliminate the bullets of the list with list-style-type: none.
+  - Give the current link (the page where you are right now) a ‘reversed effect’: dark letter on a light background.
+  - Create a hover-effect [hover](https://developer.mozilla.org/en-US/docs/Web/CSS/:hover).
+  - Maybe you can try a smooth transition [transition](https://developer.mozilla.org/en-US/docs/Web/CSS/transition).
 
 Open your HTML document in a web browser and test the styles. Resize the browser window to see how the responsive styles for small screens work.
 
