@@ -15,7 +15,7 @@ Expand your static website with three extra HTML documents (= total of at least 
 - In the other new HTML file (e.g., `services.html`), create a layout using CSS Grid. For example, create a grid container with multiple grid items.
   - In your `style.css`, apply CSS Grid styles to the elements within the grid-container.
   - Use media queries to make the layout responsive.
-- Ensure that your navigation menu, which you have already created in your `index.html`, includes links to the newly added pages (`about.html` and `services.html`).
+- Ensure that your navigation menu, which you have already created in your `index.html`, includes links to the newly added pages (`about.html` and `services.html`). Remember that the fifth link must link to your site specification. 
 - Make sure to use media queries to make your layout responsive, including navigation, images, white spaces, etc. Work mobile-first.
 - Test the validity of each of your HTML pages using an online validator, such as [https://html5.validator.nu/](https://html5.validator.nu/). Ensure that there are no errors or warnings in the validation reports.
 - Test using [CSS Validator](https://jigsaw.w3.org/css-validator/) if your CSS file is valid according to the web standard CSS3.
