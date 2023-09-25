@@ -6,6 +6,7 @@
 ## Description
 
 In the last exercise, you created your first HTML document (homepage). The goal of this exercise is now to style that page using CSS, working for a small screen (width 400 pixels). In the next lessons, you will learn how to move blocks around so that you make the best use of wide screen space.
+
 During the course, you learned about external CSS files, embedded CSS, inline CSS, selectors… Time to turn this into practice. Open your homepage and resize the browser screen.
 
 ## Specifics
