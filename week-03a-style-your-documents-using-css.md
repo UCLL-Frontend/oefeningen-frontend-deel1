@@ -27,8 +27,6 @@ During the course, you learned about external CSS files, embedded CSS, inline CS
     - Give the links in the navigation a different color than the links elsewhere in the text.
     - Show the first list-item in another color than the other list-items.
     - Give the headers a font-family different from the rest of the text.
-  - Play with width in CSS. Example: resize figures to full browser width.
-  - Play with padding and margin: use this to visually separate consecutive blocks.
 - In the `<head>` of your HTML document, you can also include embedded CSS using the `<style>` element to apply specific styles to elements within that document.
 - Practice inline style by using styles directly on individual HTML elements using the style attribute.
 - Open your HTML document in a web browser and test the styles. Resize the browser window to see how the responsive styles for small screens work.
