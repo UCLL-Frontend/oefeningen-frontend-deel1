@@ -8,7 +8,7 @@ Expand your static website with three extra HTML documents (= total of at least 
 
 - Start by creating three new HTML files, each representing a new page on your website. For example, you can create `about.html`, `services.html`, and `contact.html`.
 - Use the correct HTML5 document structure, including the `<!DOCTYPE html>` declaration, `<html>`, `<head>`, and `<body>` elements.
-- At this point, it can be usefull to add a CSS reset class (e.g. (normalize.css)[http://necolas.github.io/normalize.css/]).
+- At this point, it can be usefull to add a CSS reset class (e.g. [normalize.css](http://necolas.github.io/normalize.css/)).
 - In one of the new HTML files (e.g., `about.html`), create a layout using Flexbox. For example, create a section with multiple elements that are laid out horizontally (wide screen) or vertically (small screen) using Flexbox properties like `display: flex`, `flex-direction`, `justify-content`, and `align-items`.
 -   In your `style.css`, apply Flexbox styles to the elements within the flex-container.
   - Use media queries to make the layout responsive. Work mobile-first.
