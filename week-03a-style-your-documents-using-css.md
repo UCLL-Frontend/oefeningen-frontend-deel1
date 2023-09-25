@@ -32,7 +32,7 @@ During the course, you learned about external CSS files, embedded CSS, inline CS
 - Open your HTML document in a web browser and test the styles. Resize the browser window to see how the responsive styles for small screens work.
 - Feel free to experiment with different styles, colors, and layouts to achieve the desired look and feel for your HTML document.
 - It's good practice to add comments in your CSS code to explain the purpose of different style rules and provide context for your styling decisions.
-- ??? Color contrast analyzer can be introduced here.
+- Check the colour contrast with [Colour Contrast Analyzer](https://www.tpgi.com/color-contrast-checker/).
 - Test using [HTML5 Validator](https://html5.validator.nu/) if each HTML page is valid according to the current web standard HTML5.
 - Test using [CSS Validator](https://jigsaw.w3.org/css-validator/) if your CSS file is valid according to the web standard CSS3.
 
