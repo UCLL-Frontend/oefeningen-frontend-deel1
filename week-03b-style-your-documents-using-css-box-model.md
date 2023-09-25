@@ -1,6 +1,6 @@
 # Style your documents using CSS – Box Model
 
-## Link to Exercises "Create the Hompe Page"
+## Link to Exercises "Create the Home Page"
 [Link to Exercises Create the Home Page](https://github.com/UCLL-Frontend/oefeningen-frontend-deel1/blob/main/week-02-create-the-homepage-of-your-static-website.md)
 
 ## Description
