@@ -48,7 +48,7 @@ This exercise is considered as exercise on the lessons of CSS: Box Model. You mu
 ## Self Assessment
 
 Check your submission yourself:
-- your webpage is available via [our webserver](https://webontwerp.ucll.be/Ti-Front-end/reeksen/reeksoverzicht.html). Use FileZilla to transfer the files from your device to the webserver ((manual on this link)[https://frontend.webontwerp.ucll.be/HTML_basispg/#FTP-(File-Transfer-Protocol)]). 
+- your webpage is available via [our webserver](https://webontwerp.ucll.be/Ti-Front-end/reeksen/reeksoverzicht.html). Use FileZilla to transfer the files from your device to the webserver ([manual on this link](https://frontend.webontwerp.ucll.be/HTML_basispg/#FTP-(File-Transfer-Protocol))). 
 
 ### Technique
 
