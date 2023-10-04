@@ -8,7 +8,7 @@ You learned the advantages of using the Sass preprocessor in class. It's now tim
 
 - Start by reviewing the existing CSS stylesheet that you want to convert to Sass. Make sure you understand the current styling and layout of the web page.
 - Install Sass on your current project.
-- Put all SCSS files in the folder "CSS."
+- Put all SCSS files in the folder "CSS". Your lecturer will check your .scss-files, so make sure they can find it in that folder.
 - Organize Styles with Sass Features:
   - Define variables for commonly used values such as colors, fonts, and breakpoints.
   - Use nesting to group related styles together.
@@ -32,7 +32,8 @@ This exercise is considered as exercise on the lessons of CSS: SASS, CRAP, and T
 Check your submission yourself:
 
 - The (generated) CSS code is valid (check on [https://jigsaw.w3.org/css-validator/](https://jigsaw.w3.org/css-validator/)).
-- All CSS files are in the folder "CSS."
+- The HTML is valid (check all pages on https://html5.validator.nu/ or https://validator.w3.org/).
+- All CSS files, incl .scss-files, are in the folder "CSS".
 - SCSS is built with components that have a logical structure.
 - The associated CSS is in partials or subfiles (e.g., _header.scss) that are organized into folders (directories).
 - You use nesting.
