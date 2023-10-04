@@ -21,7 +21,7 @@ You learned the advantages of using the Sass preprocessor in class. It's now tim
 
 ## How to Submit
 
-Deliver the assignment on the webserver. It must be available on the class list under the title "site." The URL should be as [https://r0934094.webontwerp.ucll.be/site](https://r0934094.webontwerp.ucll.be/site).
+Deliver the assignment on the webserver. It must be available on [the class list](https://webontwerp.ucll.be/Ti-Front-end/reeksen/reeksoverzicht.html) under the title "site." The URL should be as [https://r0934094.webontwerp.ucll.be/site](https://r0934094.webontwerp.ucll.be/site).
 
 ## Deadline
 
