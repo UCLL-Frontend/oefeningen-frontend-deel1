@@ -24,7 +24,7 @@ Provide details about your site:
 
 ## How to Submit
 
-Deliver the assignment on the webserver. It must be available on the class list under the title “sitespecificatie”. The URL should be as [https://r0938728.webontwerp.ucll.be/sitespec.html](https://r0938728.webontwerp.ucll.be/sitespec.html).
+Deliver the assignment on the webserver. It must be available on [the class list](https://webontwerp.ucll.be/Ti-Front-end/reeksen/reeksoverzicht.html) under the title “sitespecificatie”. The URL should be as [https://r0938728.webontwerp.ucll.be/sitespec.html](https://r0938728.webontwerp.ucll.be/sitespec.html).
 Later on, this site specification will be the fifth page of your website.
 
 ## Deadline
