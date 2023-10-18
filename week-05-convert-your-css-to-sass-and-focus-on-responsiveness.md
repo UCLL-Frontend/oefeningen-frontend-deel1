@@ -2,7 +2,7 @@
 
 ## Description
 
-You learned the advantages of using the Sass preprocessor in class. It's now time to convert your current CSS code to SCSS. Next to that, you will have to optimize your index page and at least one other page for mobile devices.
+You learned the advantages of using the Sass preprocessor in class. It's now time to convert your current CSS code to SCSS. 
 
 ## Specifics
 
