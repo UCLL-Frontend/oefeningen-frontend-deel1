@@ -2,7 +2,7 @@
 
 ## Description
 
-Expand your static website with three extra HTML documents (= total of at least three documents plus site specification). Form the layout of these pages using at least flexbox and CSS grid once. Keep the RWD (Responsive Web Design) principles in mind.
+Expand your static website with three extra HTML documents (= total of at least four documents plus site specification). Form the layout of these pages using at least flexbox and CSS grid once. Keep the RWD (Responsive Web Design) principles in mind.
 
 ## Specifics
 
