@@ -7,7 +7,7 @@ You learned the advantages of using the Sass preprocessor in class. It's now tim
 ## Specifics
 
 - Start by reviewing the existing CSS stylesheet that you want to convert to Sass. Make sure you understand the current styling and layout of the web page.
-- Install Sass on your current project.
+- Install Sass on your current project. This is not necessary when you use the Live Sass Plugin in VS Code.
 - Put all SCSS files in the folder "CSS". Your lecturer will check your .scss-files, so make sure they can find it in that folder.
 - Organize Styles with Sass Features:
   - Define variables for commonly used values such as colors, fonts, and breakpoints.
