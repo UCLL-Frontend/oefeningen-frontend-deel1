@@ -6,7 +6,7 @@ Expand your static website with three extra HTML documents (= total of at least 
 
 ## Specifics
 
-- Start by creating three new HTML files, each representing a new page on your website. For example, you can create `about.html`, `services.html`, and `contact.html`.
+- Start by creating three new HTML files, each representing a new page on your website. For example, you can create `about.html`, `services.html` and `contact.html`.
 - Use the correct HTML5 document structure, including the `<!DOCTYPE html>` declaration, `<html>`, `<head>`, and `<body>` elements.
 - At this point, it can be usefull to add a CSS reset class (e.g. [normalize.css](http://necolas.github.io/normalize.css/)).
 - In one of the new HTML files (e.g., `about.html`), create a layout using Flexbox. For example, create a section with multiple elements that are laid out horizontally (wide screen) or vertically (small screen) using Flexbox properties like `display: flex`, `flex-direction`, `justify-content`, and `align-items`.
@@ -15,7 +15,7 @@ Expand your static website with three extra HTML documents (= total of at least 
 - In the other new HTML file (e.g., `services.html`), create a layout using CSS Grid. For example, create a grid container with multiple grid items.
   - In your `style.css`, apply CSS Grid styles to the elements within the grid-container.
   - Use media queries to make the layout responsive.
-- Ensure that your navigation menu, which you have already created in your `index.html`, includes links to the newly added pages (`about.html` and `services.html`). Remember that the fifth link must link to your site specification. 
+- Ensure that your navigation menu, which you have already created in your `index.html`, includes links to the newly added pages (e.g. `about.html`, `services.html` and `contact.html`). Remember that the fifth link must link to your site specification. 
 - Make sure to use media queries to make your layout responsive, including navigation, images, white spaces, etc. Work mobile-first.
 - Test the validity of each of your HTML pages using an online validator, such as [https://html5.validator.nu/](https://html5.validator.nu/). Ensure that there are no errors or warnings in the validation reports.
 - Test using [CSS Validator](https://jigsaw.w3.org/css-validator/) if your CSS file is valid according to the web standard CSS3.
