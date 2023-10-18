@@ -47,10 +47,10 @@ Sta nog eens stil bij de uitwerking van de website nu ze bijna af is. Wat deed j
 
 ### 3\. HTML - Documentstructuur
 
-*   HTML5 structuurelementen zijn aanwezig (header, nav, main, footer, article, section, aside, address, ...) _in iedere pagina_ (ook de contactpagina en het portfolio, als je die hebt).  
+*   Je gebruikt semantische HTML (waaronder header, nav, main, footer, article, section, aside, address, ...) _in iedere pagina_ (ook de contactpagina en het portfolio, als je die hebt).  
     Veel voorkomende fouten:
     *   je gebruikt geen `main` element
-    *   je gebruikt geen of amper de elementen `article` en `section`
+    *   je gebruikt geen of amper de elementen `article` en `section`, of juist veel te veel
     *   je gebruikt `div` onoordeelkundig (in plaats van `article` of `section`) m.a.w. geen gebruik van `div` als andere elementen toepasbaar zijn, zie [html5doctor sectioning flowchart](http://html5doctor.com/downloads/h5d-sectioning-flowchart.png)
 *   Header bevat `h1` met naam van de site en `nav`.  
     Veel voorkomende fouten:
@@ -212,7 +212,7 @@ Sta nog eens stil bij de uitwerking van de website nu ze bijna af is. Wat deed j
 *   De lay-out is goed in Edge, Firefox, Safari en Chrome.
 *   De fontsize is relatief gedefinieerd.
     *   geen `cm`, `mm` of `pt` gebruiken, maar liever ook geen `px`
-*   Je website doorstaat minimaal de 15 critria van de [Quickscan van Anysurfer](https://toegankelijkheidsmonitor.be/2020.html) (onder de kop "Hoe scoorden de websites?"), of beter nog de [checklist van WebAIM](https://www.anysurfer.be/nl/documentatie/artikels/detail/webaims-wcag-2-checklist)
+*   Je website doorstaat minimaal de 15 critria van de [Quickscan van Anysurfer](https://toegankelijkheidsmonitor.be/2020.html) (onder de kop "Hoe scoorden de websites?"), of beter nog de [checklist van WebAIM](https://www.anysurfer.be/nl/documentatie/artikels/detail/webaims-wcag-2-checklist). Je kan ook de [Wave Browser Extension](https://wave.webaim.org/) gebruiken om je website te testen. 
 
 </section>
 
