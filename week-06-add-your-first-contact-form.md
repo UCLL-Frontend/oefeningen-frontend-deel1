@@ -10,9 +10,9 @@ In this assignment, you will add a contact form to one of your web pages.
 - Add the form fields inside the `<form>` element using various input elements such as `<input>`, `<textarea>`, and `<select>`.
 - Use the `<label>` element to provide labels for form fields and connect them to the respective input elements using the `for` attribute and `id` attribute.
 - Add validation attributes such as `type`, `required`, `pattern`, or `min/max` to ensure data integrity, completeness, and accessibility.
-- Apply CSS styles to make the form visually appealing and user-friendly. You can either include CSS directly in the HTML file using `<style>` tags or link to an external CSS file.
+- Apply CSS styles to make the form visually appealing and user-friendly. Create a SASS partial for the form.
 - Test the form in different browsers to ensure cross-browser compatibility and functionality. Some things you should check:
-  - The use of the available space in the browser window: full width for small devices, limited width for a larger window.
+  - The use of the available space in the browser window: (almost) full width for small devices, limited width for a larger window.
   - The placement of the submit-button.
   - The size and position of the input text.
   - The placement of the input labels.
