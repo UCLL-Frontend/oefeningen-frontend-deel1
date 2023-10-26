@@ -11,7 +11,7 @@ Reflect again on the elaboration of the website as it nears completion. What did
 ### 1\. Validation
 
 * Every HTML file has an HTML5 declaration.
-    * first line file must be: `<!DOCTYPE html>``
+    * first line file must be: `<!DOCTYPE html>`
 * Every HTML file validates according to the HTML5 doctype at [https://validator.w3.org/](https://validator.w3.org/) or [https://html5.validator.nu/](https://html5.validator.nu/).
     * Read the error messages (errors, indicated in red) carefully. They indicate what error you made and often also a hint to solve them.
     * Using Google map causes problems: see [documentation 'responsive Google Map'](https://www.labnol.org/internet/embed-responsive-google-maps/28333/) for a solution.
