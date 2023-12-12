@@ -20,8 +20,9 @@ Sta nog eens stil bij de uitwerking van de website nu ze bijna af is. Wat deed j
         *   attribuut `alt=""` niet vergeten toe te voegen
         *   lege images (met `src=""`) valideren niet
         *   afbeelding in een lijst: ofwel `img` element omgeven door `li`, ofwel `img` buiten de lijst plaatsen
-    *   `header` geplaatst in `head` i.p.v. in `body`
-    *   gebruik onbestaande elementen zoals `p1`, ...
+    *  Veel gemaakte fouten: (toegevoegd op 12/12/23)
+        * `header` geplaatst in `head` i.p.v. in `body`
+        *   gebruik onbestaande elementen zoals `p1`, ...
     *   warnings (geel) zijn toegestaan, probeer ze tot een minimum te herleiden
 *   Het CSS-bestand valideert op [https://jigsaw.w3.org/css-validator/](https://jigsaw.w3.org/css-validator/).
     *   lees de foutmeldingen goed na. Die geven aan welke fout je maakte en vaak ook een hint om ze op te lossen.
