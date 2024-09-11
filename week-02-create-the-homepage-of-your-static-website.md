@@ -27,7 +27,7 @@ Deliver the assignment on the webserver. It must be available on [the class list
 
 ## Deadline
 
-This exercise is considered as exercise on lesson 1. You must deliver it as part of “Tussentijdse opdracht” with the deadline 12/10.
+This exercise is considered as exercise on lesson 1. Your teacher will give feedback next lessen. 
 
 ## Self Assessment
 
@@ -45,4 +45,4 @@ Check your submission yourself:
 
 Note: Your final index page may not have a meaningful application for all the requested HTML elements. In that case, make sure you use them at least once on another page so that you demonstrate your understanding of the course content.
 
-Feel free to create the other pages in your own tempo. In week 3 you will need a page with some photos and/or content blocks, keep that in mind.
+Feel free to create the other pages in your own tempo. In week 3 you will need a page with some photos and/or content blocks.

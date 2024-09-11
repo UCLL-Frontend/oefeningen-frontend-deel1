@@ -1,11 +1,10 @@
 # Style your documents using CSS – Box Model
 
-## Link to Exercises "Create the Home Page"
-[Link to Exercises Create the Home Page](https://github.com/UCLL-Frontend/oefeningen-frontend-deel1/blob/main/week-02-create-the-homepage-of-your-static-website.md)
+
 
 ## Description
 
-The result of the previous exercise is rather good. But aren't the titles very short on the next paragraph? And isn't the image a bit large? In this exercise, we are going to improve it, again for a small window.
+The result of the previous exercise [Create the Home Page](https://github.com/UCLL-Frontend/oefeningen-frontend-deel1/blob/main/week-02-create-the-homepage-of-your-static-website.md) is rather good. But aren't the titles very short on the next paragraph? And isn't the image a bit large? In this exercise, we are going to improve it, again for a small window.
 
 Open your homepage and resize the browser screen to 600px. Also in this exercise, we limit ourselves to a small-screen layout.
 
@@ -15,7 +14,7 @@ Open your homepage and resize the browser screen to 600px. Also in this exercise
 - Play with padding and margin. Use the developer tool to discuss the result.
 - Use padding and margin to visually separate consecutive blocks (e.g. h2 and following p). Try both.
 - Add a border and background color to the navigation items. Add padding such that they don’t stick to the edge.
-- Play with width in CSS. Examples:
+- Play with width in CSS:
   - Resize figures to full browser width, to 50% of the browser width, 600px … Resize the browser screen and discuss the result.
   - Put the resized image in the center of the containing block.
 - Play with the width of the main content (header + main + footer).
@@ -29,11 +28,11 @@ Open your homepage and resize the browser screen to 600px. Also in this exercise
   - Create a hover-effect [hover](https://developer.mozilla.org/en-US/docs/Web/CSS/:hover).
   - Maybe you can try a smooth transition [transition](https://developer.mozilla.org/en-US/docs/Web/CSS/transition).
 
-Open your HTML document in a web browser and test the styles. Resize the browser window to see how the responsive styles for small screens work.
+- Open your HTML document in a web browser and test the styles. Resize the browser window to see how the responsive styles for small screens work.
 
-Feel free to experiment with different styles, colors, and layouts to achieve the desired look and feel for your HTML document.
+- Feel free to experiment with different styles, colors, and layouts to achieve the desired look and feel for your HTML document.
 
-Test using [HTML5 Validator](https://html5.validator.nu/) if each HTML page is valid according to the current web standard HTML5.
+- - Test using [HTML5 Validator](https://html5.validator.nu/) if each HTML page is valid according to the current web standard HTML5.
 
 Test using [CSS Validator](https://jigsaw.w3.org/css-validator/) if your CSS file is valid according to the web standard CSS3.
 
@@ -43,7 +42,7 @@ Deliver the assignment on the webserver. It must be available on [the class list
 
 ## Deadline
 
-This exercise is considered as exercise on the lessons of CSS: Box Model. You must deliver it as part of “Tussentijdse opdracht” with a deadline of 12/10.
+This exercise is considered as exercise on the lessons of CSS: Box Model. 
 
 ## Self Assessment
 

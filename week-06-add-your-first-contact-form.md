@@ -10,7 +10,7 @@ In this assignment, you will add a contact form to one of your web pages.
 - Add the form fields inside the `<form>` element using various input elements such as `<input>`, `<textarea>`, and `<select>`.
 - Use the `<label>` element to provide labels for form fields and connect them to the respective input elements using the `for` attribute and `id` attribute.
 - Add validation attributes such as `type`, `required`, `pattern`, or `min/max` to ensure data integrity, completeness, and accessibility.
-- Apply CSS styles to make the form visually appealing and user-friendly. Create a SASS partial for the form.
+- Apply CSS styles to make the form visually appealing and user-friendly. 
 - Test the form in different browsers to ensure cross-browser compatibility and functionality. Some things you should check:
   - The use of the available space in the browser window: (almost) full width for small devices, limited width for a larger window.
   - The placement of the submit-button.
@@ -25,17 +25,17 @@ Deliver the assignment on the webserver. It must be available on [the class list
 
 ## Deadline
 
-This exercise is considered as exercise on the lessons of HTML/CSS: forms. You must deliver it as part of “Opdracht HTML en CSS,” with a deadline of 15/11/23.
+This exercise is considered as exercise on the lessons of HTML/CSS: forms. 
 
 ## Self Assessment
 
 Check your submission yourself:
 
 - The HTML is valid (check on [https://html5.validator.nu/](https://html5.validator.nu/) or [https://validator.w3.org/](https://validator.w3.org/)).
-- The (generated) CSS code is valid (check on [https://jigsaw.w3.org/css-validator/](https://jigsaw.w3.org/css-validator/)).
-- Your form is meaningful and relevant to the target audience, taking into account aspects of "usability."
-- It has sufficient complexity: at least 3 different input types, in addition to "submit" type.
-- It has custom layout (via scss) with special attention to 'mobile' display.
+- The CSS code is valid (check on [https://jigsaw.w3.org/css-validator/](https://jigsaw.w3.org/css-validator/)).
+- Your form is meaningful with respect to the content of the other pages and relevant to the target audience, taking into account aspects of "usability."
+- It has sufficient complexity: must have a checkbox or radio button and at least 3 different input types (checkbox/radio button and submit button not included).
+- It has custom layout with special attention to 'mobile' display.
 - It has good horizontal and vertical alignment.
 - There is client-side validation.
 - You use correct input types.
