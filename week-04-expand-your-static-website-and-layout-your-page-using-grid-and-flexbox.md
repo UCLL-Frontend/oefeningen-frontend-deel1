@@ -23,7 +23,7 @@ Expand your static website with three extra HTML documents (= total of at least 
 
 ## How to Submit
 
-Deliver the assignment on the webserver. It must be available on [the class list](https://webontwerp.ucll.be/Ti-Front-end/reeksen/reeksoverzicht.html) under the title “site”. The URL should be as [https://r0934094.webontwerp.ucll.be/site](https://r0934094.webontwerp.ucll.be/site).
+Push your code to GitHub.
 
 ## Deadline
 

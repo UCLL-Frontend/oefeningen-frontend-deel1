@@ -24,12 +24,14 @@ Provide details about your site:
 
 ## How to Submit
 
-Deliver the assignment on the webserver. It must be available on [the class list](https://webontwerp.ucll.be/Ti-Front-end/reeksen/reeksoverzicht.html) under the title “sitespecificatie”. The URL should be as [https://r0938728.webontwerp.ucll.be/sitespec.html](https://r0938728.webontwerp.ucll.be/sitespec.html).
+- Push your code to GitHub. 
+- Create a release "sitespec".
+- The URL should be as https://github.../sitespec.html
 Later on, this site specification will be the fifth page of your website.
 
 ## Deadline
 
-The site specification is considered as exercise on lesson 1. You must deliver it as part of “Tussentijdse opdracht” with the deadline 12/10.
+The site specification is considered as exercise on lesson 1. 
 
 ## Self Assessment
 

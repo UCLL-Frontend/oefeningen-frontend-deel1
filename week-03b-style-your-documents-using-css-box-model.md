@@ -38,7 +38,7 @@ Test using [CSS Validator](https://jigsaw.w3.org/css-validator/) if your CSS fil
 
 ## How to Submit
 
-Deliver the assignment on the webserver. It must be available on [the class list](https://webontwerp.ucll.be/Ti-Front-end/reeksen/reeksoverzicht.html) under the title “site”. The URL should be as [https://r0934094.webontwerp.ucll.be/site](https://r0934094.webontwerp.ucll.be/site).
+Push your code to GitHub.
 
 ## Deadline
 

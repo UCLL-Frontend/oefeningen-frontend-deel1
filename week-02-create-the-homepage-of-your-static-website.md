@@ -17,13 +17,14 @@ The next step is to translate one of those pages into valid HTML5. In this assig
 - In the `<body>` section, add the main content of your homepage within a `<main>` element. You can use placeholder content (Lorem Ipsum) for now. (In VS Code, you can type `lorem` in your `index.html` file to automatically add lorem copy using the Emmet notation.) [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
 - Images:
   - Add a logo or other images when available.
+  - Use the network tab to check the file load. 
   - For other images, use placeholders (for example: [https://placehold.co/](https://placehold.co/)).
 - Include a footer section with copyright information or any other relevant details.
 - Test the validity of your HTML using an online validator, such as [https://html5.validator.nu/](https://html5.validator.nu/). Ensure that there are no errors or warnings in the validation reports.
 
 ## How to Submit
 
-Deliver the assignment on the webserver. It must be available on [the class list](https://webontwerp.ucll.be/Ti-Front-end/reeksen/reeksoverzicht.html) under the title “site”. The URL should be as [https://r0934094.webontwerp.ucll.be/site](https://r0934094.webontwerp.ucll.be/site). Follow the instructions as explained in the demo or [stappenplan](https://frontend.webontwerp.ucll.be/assets/html/handleiding_filezillaSFTP.pdf).
+Push your code to GitHub.
 
 ## Deadline
 
