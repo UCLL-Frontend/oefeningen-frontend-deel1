@@ -2,7 +2,7 @@
 
 ## Description
 
-You learned the advantages of using tnesting and variables in CSS. It's now time to convert your current CSS code to SCSS. 
+You learned the advantages of using tnesting and variables in CSS. It's now time to use it in your code. 
 
 ## Specifics
 
@@ -18,7 +18,7 @@ Push your code to GitHub.
 
 ## Deadline
 
-This exercise is considered as exercise on the lessons of CSS: SASS, CRAP, and Typography. 
+This exercise is considered as exercise on the lessons of CSS: CRAP, and Typography. 
 
 ## Self Assessment
 

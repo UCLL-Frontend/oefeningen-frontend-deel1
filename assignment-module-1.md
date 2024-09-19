@@ -36,12 +36,14 @@ We will help you build the site. With each piece of theory, you'll be instructed
 
 1. By the expiration of the deadline (Sunday evening, Nov. 3), your assignment must be online on GitHub as described above.
 2. Submit the Toledo Assignment. In the text field, add
-   - the link to the release "final" of your repository
+   - the link to your website
    - a screenshot showing that your CSS is valid
    - a screenshot that shows that the page with form is HTML5 valid
 
-## Examples
+You are not allowed to change your code after the expiry date.
 
+## Examples
+Log in with your student number and password
 - [Example 1](https://webontwerp.ucll.be/Ti-Front-end/goedeSites/VanHooydonckMaxim/site/)
 - [Example 2](https://webontwerp.ucll.be/Ti-Front-end/goedeSites/sempelsStef/site/)
 - [Example 3](https://webontwerp.ucll.be/Ti-Front-end/goedeSites/vanZomerenJenthe/site/)
