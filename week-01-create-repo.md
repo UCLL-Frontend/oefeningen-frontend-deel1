@@ -1,5 +1,5 @@
 # Create your GitHub Repo and deploy it with GitHub Pages
-[![Watch the video](img/your-first-webpage.jpg)](https://kuleuven.mediaspace.kaltura.com/media/FE+-+Publish+With+GitHub+Pages/1_wq9m4gh3)
+Find the video below the text.
 ## GitHub Classroom
 1. Install Git on your device (cfr Challenges of Introduction Project)
 1. Navigate to https://github.com/ and log in.
@@ -19,3 +19,5 @@
 1. Choose the main branch. Click “save”. Your website is built by GitHub. This can take a while. 
 1. Click on “Visit site” (top of the page). Your website is shown. Be patient: the build can take a while.
 1. The url should look like https://ucll-frontend-student.github.io/site-janJanssens
+
+[![Watch the video](img/your-first-webpage.jpg)](https://kuleuven.mediaspace.kaltura.com/media/FE+-+Publish+With+GitHub+Pages/1_wq9m4gh3)
