@@ -1,4 +1,5 @@
 # Create your GitHub Repo and deploy it with GitHub Pages
+[![Watch the video](img/your-first-webpage.jpg)](https://kuleuven.mediaspace.kaltura.com/media/FE+-+Publish+With+GitHub+Pages/1_wq9m4gh3)
 ## GitHub Classroom
 1. Install Git on your device (cfr Challenges of Introduction Project)
 1. Navigate to https://github.com/ and log in.
