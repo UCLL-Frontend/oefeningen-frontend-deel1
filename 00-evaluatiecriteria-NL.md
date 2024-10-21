@@ -1,5 +1,5 @@
 # Evaluatiecriteria van de opdracht "Website"
-***Niet-goedgekeurde versie van 15/10/2024***
+***Versie van 21/10/2024***
 
 De algemene requirements worden beschreven in [assignment-module-1.md](https://github.com/UCLL-Frontend/oefeningen-frontend-deel1/edit/main/assignment-module-1.md). 
 In wat volgt geven we een beknopte opsomming van de evaluatiecriteria, dat zijn dingen waar we in het bijzonder op letten als we je website verbeteren. 
