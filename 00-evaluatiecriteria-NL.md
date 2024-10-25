@@ -12,7 +12,7 @@ Deze criteria zijn bindend.
 
 
 ## HTML
-- Alle pagina's hebben valide HTML
+- Alle pagina's hebben valide HTML. Valideer online via [validator.w3.org](https://validator.w3.org/) of [html5.validator.nu](https://html5.validator.nu/).
 - Je code toont aan dat je alle aangeleerde concepten beheerst
 - De semantiek van HTML is correct: 
     - je gebruikt elementen die structuur geven op de juiste manier (header, article, section, ..)
@@ -23,7 +23,7 @@ Deze criteria zijn bindend.
 - Je formulier voorziet HTML5 client-side validatie
 
 ## CSS
-- De CSS is gevalideerd. Enkel fouten veroorzaakt door nesting zijn toegelaten.
+- De CSS is gevalideerd. Enkel fouten veroorzaakt door nesting zijn toegelaten. Gebruik de online validator van W3C [jigsaw.w3.org](https://jigsaw.w3.org/css-validator/).
 - Je code toont aan dat je alle aangeleerde concepten beheerst
 - Je kan CSS selectoren juist en efficiënt gebruiken
     - je kent de verschillende types van selectoren
