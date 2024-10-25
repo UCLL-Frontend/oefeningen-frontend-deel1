@@ -12,7 +12,7 @@ These criteria are binding.
 
 ## HTML
 
-- All pages must have valid HTML.
+- All pages must have valid HTML. Validate online via validator.w3.org of html5.validator.nu.
 - Your code must demonstrate that you have mastered all the concepts that were taught.
 - The semantics of HTML must be correct:
   - You must use structure-defining elements in the correct way (header, article, section, etc.).
